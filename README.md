@@ -4,3 +4,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/askll-star/count.svg" />
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=askll-star)](https://git.io/streak-stats)
