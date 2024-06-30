@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Here is the github of ASKLL">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askll-star&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askll-star&show_icons=true&theme=holi)
 
