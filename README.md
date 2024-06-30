@@ -5,5 +5,4 @@
   <img src="https://profile-counter.glitch.me/askll-star/count.svg" />
 </p>
 
-
-[![Askll's GitHub stats](https://github-readme-stats.vercel.app/api?username=askll-star)](https://github.com/anuraghazra/github-readme-stats&lshow_icons=true?theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askll-star&show_icons=true&theme=holi)
