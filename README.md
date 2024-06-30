@@ -5,4 +5,5 @@
   <img src="https://profile-counter.glitch.me/askll-star/count.svg" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=askll-star)](https://git.io/streak-stats)
+
+[![Askll's GitHub stats](https://github-readme-stats.vercel.app/api?username=askll-star)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=radical)
