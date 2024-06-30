@@ -6,4 +6,4 @@
 </p>
 
 
-[![Askll's GitHub stats](https://github-readme-stats.vercel.app/api?username=askll-star)](https://github.com/anuraghazra/github-readme-stats&lshow_icons=true&theme=dark)
+[![Askll's GitHub stats](https://github-readme-stats.vercel.app/api?username=askll-star)](https://github.com/anuraghazra/github-readme-stats&lshow_icons=true?theme=holi)
