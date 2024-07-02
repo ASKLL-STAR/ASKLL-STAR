@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](http://www.romjd.com/Device/huawei-c8825d)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askll-star&show_icons=true&theme=holi)
 
 <p align="center"> 
   访问次数<br>
