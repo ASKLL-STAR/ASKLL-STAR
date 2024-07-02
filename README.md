@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats]()
+![Anurag's GitHub stats](http://www.romjd.com/Device/huawei-c8825d)
 
 <p align="center"> 
   访问次数<br>
